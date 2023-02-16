@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Switch#Contact_bounce
 
+https://github.com/thomasfredericks/Bounce2#readme
+
 
 BOUNCE 2
 Debouncing library for Arduino and Wiring by Thomas Ouellet Fredericks with many contributions from the community : https://github.com/thomasfredericks/Bounce2/graphs/contributors
